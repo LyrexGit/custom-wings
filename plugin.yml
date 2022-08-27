@@ -1,8 +1,8 @@
 name: CustomWing
-api: 4.0.0
+api: 4.8.1
 version: 1.5
 main: CustomWing\Main
-author: YTEsDev
+author: Yukari
 commands:
   customwing:
     description: "CustomWing"
