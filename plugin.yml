@@ -1,0 +1,14 @@
+name: CustomWing
+api: 4.0.0
+version: 1.5
+main: CustomWing\Main
+author: YTEsDev
+commands:
+  customwing:
+    description: "CustomWing"
+    usage: /customwing
+    permission: customwing.use
+    aliases: [cw, wings]
+permissions:
+  customwing.use:
+    default: true
