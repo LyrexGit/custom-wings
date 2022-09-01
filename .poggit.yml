@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LyrexGit/custom-wings
+build-by-default: true
+branches:
+- main
+projects:
+  custom-wings:
+    path: ""
+...
