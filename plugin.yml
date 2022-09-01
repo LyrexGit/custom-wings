@@ -1,0 +1,14 @@
+name: CustomWing
+api: 4.0.0
+version: 1.5 - Remake
+main: CustomWing\Main
+author: YTEsDev Remake By AlvinZ
+commands:
+  customwing:
+    description: "CustomWing"
+    usage: /customwing
+    permission: customwing.use
+    aliases: [cw, wings]
+permissions:
+  customwing.use:
+    default: true
