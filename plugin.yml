@@ -2,7 +2,7 @@ name: CustomWing
 api: 4.0.0
 version: 1.5 - Remake
 main: CustomWing\Main
-author: YTEsDev Remake By AlvinZ
+author: YTEsDev Remake By YukariAst
 commands:
   customwing:
     description: "CustomWing"
